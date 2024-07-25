@@ -1,0 +1,9 @@
+{
+  "meta_type": "lesson",
+  "version": 1,
+  "title": "Numbers",
+  "slug": "numbers",
+  "type": "editor",
+  "tests": true,
+  "exports": []
+}

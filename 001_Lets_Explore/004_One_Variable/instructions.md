@@ -1,0 +1,38 @@
+# Naming Values
+
+Now you know that the REPL can remember the result of the last command. You
+can ask for that value with a special name: `_`. You can even use that special
+name in calculations and the REPL will substitute the value of the last command
+wherever you used the special name.
+
+But as soon as you run another command, the value of `_` changes.
+
+- What if you want to hold on to a value for longer?
+- What if you want to remember more than one value at a time?
+
+We already learned that computers are good at computations. They're also
+good at remembering things. But your computer stores information at cryptic,
+impossible-to-remember addresses, something like `0x7fffbf7f5b60`. To make it
+easier on us humans, we can also associate that address with an
+easier-to-remember name. For example:
+
+```shell
+> x = 5
+5
+> x
+```
+
+Try typing this example into the REPL. What do you think will happen?
+
+You just created a **variable**. You gave it a name, `x`. The `=` symbol that
+follows the name is called the **assignment operator**. It tells the computer
+to store the value that follows -- `5` in our example -- at the place in memory
+that the variable points to. If we "evaluate" `x` by typing it into the REPL
+and pressing enter, the JavaScript interpreter looks in the memory address
+associated with the name `x` and gives us back the value stored there. Neat.
+
+Now you try. Create another variable. Give it any name you want and assign
+to it any value you want. Then try to use the name to get back the value you
+assigned to it.
+
+Did you get it? Great! Click "Complete".

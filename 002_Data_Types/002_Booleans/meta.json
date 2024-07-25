@@ -1,0 +1,9 @@
+{
+  "meta_type": "lesson",
+  "version": 1,
+  "title": "Booleans: True and False",
+  "slug": "booleans",
+  "type": "editor",
+  "tests": true,
+  "exports": []
+}

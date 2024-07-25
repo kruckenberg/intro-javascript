@@ -1,0 +1,9 @@
+{
+  "meta_type": "lesson",
+  "version": 1,
+  "title": "Recalling Values",
+  "slug": "last-value",
+  "type": "repl",
+  "tests": false,
+  "exports": []
+}

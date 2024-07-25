@@ -1,0 +1,9 @@
+{
+  "meta_type": "lesson",
+  "version": 1,
+  "title": "Naming Values",
+  "slug": "naming-values",
+  "type": "repl",
+  "tests": false,
+  "exports": []
+}

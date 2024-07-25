@@ -1,0 +1,9 @@
+{
+  "meta_type": "lesson",
+  "version": 1,
+  "title": "What's a REPL?",
+  "slug": "repl-calculator",
+  "type": "repl",
+  "tests": false,
+  "exports": []
+}
