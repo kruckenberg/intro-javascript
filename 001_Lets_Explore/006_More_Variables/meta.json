@@ -1,0 +1,9 @@
+{
+  "meta_type": "lesson",
+  "version": 1,
+  "title": "More Variables",
+  "slug": "more-variables",
+  "type": "repl",
+  "tests": false,
+  "exports": []
+}
