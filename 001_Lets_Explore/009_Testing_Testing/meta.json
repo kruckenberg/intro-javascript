@@ -1,0 +1,9 @@
+{
+  "meta_type": "lesson",
+  "version": 1,
+  "title": "Testing, Testing",
+  "slug": "hello-world",
+  "type": "editor",
+  "tests": true,
+  "exports": []
+}
