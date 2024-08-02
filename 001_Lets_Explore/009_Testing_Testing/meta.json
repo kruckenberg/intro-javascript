@@ -5,5 +5,5 @@
   "slug": "testing-testing",
   "type": "editor",
   "tests": true,
-  "exports": []
+  "exports": ["smallestPerfectNumber", "name"]
 }
