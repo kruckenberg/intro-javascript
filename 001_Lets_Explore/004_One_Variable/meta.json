@@ -3,6 +3,7 @@
   "version": 1,
   "title": "Naming Values",
   "slug": "naming-values",
+  "language": "javascript",
   "type": "repl",
   "tests": false,
   "exports": []

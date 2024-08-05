@@ -3,6 +3,7 @@
   "version": 1,
   "title": "Booleans: True and False",
   "slug": "booleans",
+  "language": "javascript",
   "type": "editor",
   "tests": true,
   "exports": []
